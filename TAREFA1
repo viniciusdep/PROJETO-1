@@ -1,0 +1,17 @@
+Qual comando você utilizou para criar o repositório local?
+
+git init
+
+Quais comandos você utilizou para realizar seu primeiro commit?
+
+git add .
+
+git commit -m 'mensagem'
+
+Qual comando você utilizou para conectar seu repositório local com o github?
+
+git remote add origin https://github.com/user/repo.git
+
+Qual comando você utilizou para realizar seu primeiro envio de arquivos?
+
+git push -u origin master
